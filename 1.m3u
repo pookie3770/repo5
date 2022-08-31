@@ -1,40 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBC 1" tvg-logo="" group-title="Channel",BBC 1
-http://cineapp.org:8000/Fernando/Fernando/318?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="BBC 1" tvg-logo="" group-title="Channel",BBC 1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAl-OYC0bIpCR99cytnScnk/ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="ITV +1" tvg-logo="" group-title="Channel",ITV +1
-http://mains.services:2086/A.Jones01/1904550/66992?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="BBC 4" tvg-logo="" group-title="Channel",BBC 4
-http://mains.services:2086/A.Jones01/1904550/104614?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="E4 +1" tvg-logo="" group-title="Channel",E4 +1
-http://mains.services:2086/A.Jones01/1904550/104622?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="5 ACTION" tvg-logo="" group-title="Channel",5 ACTION
-http://mains.services:2086/A.Jones01/1904550/104627?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="5 SELECT" tvg-logo="" group-title="Channel",5 SELECT
-http://mains.services:2086/A.Jones01/1904550/66937?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL +1" tvg-logo="" group-title="Channel",COMEDY CENTRAL +1
-http://mains.services:2086/A.Jones01/1904550/104620?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="COMEDYXTRA" tvg-logo="" group-title="Channel",COMEDYXTRA
-http://mains.services:2086/A.Jones01/1904550/104621?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="GOLD +1" tvg-logo="" group-title="Channel",GOLD +1
-http://mains.services:2086/A.Jones01/1904550/104625?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="ITV2+1" tvg-logo="" group-title="Channel",ITV2+1
-http://mains.services:2086/A.Jones01/1904550/104616?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="" group-title="Channel",ITV2
-http://mains.services:2086/A.Jones01/1904550/67003?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="ITVBenw" tvg-logo="" group-title="Channel",ITVBenw
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itvbe.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Channel",MTV
-http://cineapp.org:8000/Fernando/Fernando/16997?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="" group-title="Channel",MTV CLASSIC
-http://mains.services:2086/A.Jones01/1904550/100027?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="PBS AMERICA" tvg-logo="" group-title="Channel",PBS AMERICA
-http://mains.services:2086/A.Jones01/1904550/104637?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="5 STAR" tvg-logo="" group-title="Channel",5 STAR
-http://mains.services:2086/A.Jones01/1904550/66938?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="PICK" tvg-logo="" group-title="Channel",PICK
-http://mains.services:2086/A.Jones01/1904550/98693?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="PlutoTVDramaUK.uk" tvg-name="Pluto TV Drama (England) (720p)" tvg-logo="https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG.png" group-title="Movies",Pluto TV Drama (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91149880d60009d35d27&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=402&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVRomanceUK.uk" tvg-name="Pluto TV Romance (England) (720p)" tvg-logo="https://images.pluto.tv/channels/5d7677c0edace7cff8180b16/colorLogoPNG.png" group-title="Movies",Pluto TV Romance (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677c0edace7cff8180b16&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
 #EXTINF:-1 tvg-id="" tvg-name="TURNER CLASSIC MOVIES" tvg-logo="" group-title="movies",TURNER CLASSIC MOVIES
 http://mains.services:2086/A.Jones01/1904550/128?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="SKY MOVIES ACTION" tvg-logo="" group-title="movies",SKY MOVIES ACTION
@@ -133,3 +101,57 @@ http://cineapp.org:8000/Fernando/Fernando/18393?checkedby:iptvcat.com
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35005?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="BOX HITS" tvg-logo="" group-title="movies",BOX HITS
 http://mains.services:2086/A.Jones01/1904550/99202?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="BBC 1" tvg-logo="" group-title="Channel",BBC 1
+http://cineapp.org:8000/Fernando/Fernando/318?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="BBC 2" tvg-logo="" group-title="Channel",BBC 2
+http://cineapp.org:8000/Fernando/Fernando/317?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four (540p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Channel",BBC Four (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three HD (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Channel",BBC Three HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="PopMax.uk" tvg-name="POP Max (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Pop-max-logo.png" group-title="Channel",POP Max (576p)
+https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.mpd
+#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel (1080p)" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="Channel",Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVClassicTVUK.uk" tvg-name="Pluto TV Classic TV (720p)" tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" group-title="Channel",Pluto TV Classic TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc
+#EXTINF:-1 tvg-id="PlutoTVStandUpUK.uk" tvg-name="Pluto TV Stand Up (360p)" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Channel",Pluto TV Stand Up (360p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5637d31f319573e26b64040b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=468&terminate=false&userId=
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Channel",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC HD (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/512px-CBBC_2016_logo.svg.png" group-title="Channel",CBBC HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="PlutoTVSherlockUK.uk" tvg-name="Pluto TV Sherlock (720p)" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" group-title="Channel",Pluto TV Sherlock (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-name="ITV +1" tvg-logo="" group-title="Channel",ITV +1
+http://mains.services:2086/A.Jones01/1904550/66992?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="E4 +1" tvg-logo="" group-title="Channel",E4 +1
+http://mains.services:2086/A.Jones01/1904550/104622?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="5 ACTION" tvg-logo="" group-title="Channel",5 ACTION
+http://mains.services:2086/A.Jones01/1904550/104627?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="5 SELECT" tvg-logo="" group-title="Channel",5 SELECT
+http://mains.services:2086/A.Jones01/1904550/66937?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL +1" tvg-logo="" group-title="Channel",COMEDY CENTRAL +1
+http://mains.services:2086/A.Jones01/1904550/104620?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYXTRA" tvg-logo="" group-title="Channel",COMEDYXTRA
+http://mains.services:2086/A.Jones01/1904550/104621?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="GOLD +1" tvg-logo="" group-title="Channel",GOLD +1
+http://mains.services:2086/A.Jones01/1904550/104625?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="ITV2+1" tvg-logo="" group-title="Channel",ITV2+1
+http://mains.services:2086/A.Jones01/1904550/104616?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="" group-title="Channel",ITV2
+http://mains.services:2086/A.Jones01/1904550/67003?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="ITVBenw" tvg-logo="" group-title="Channel",ITVBenw
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itvbe.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Channel",MTV
+http://cineapp.org:8000/Fernando/Fernando/16997?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="" group-title="Channel",MTV CLASSIC
+http://mains.services:2086/A.Jones01/1904550/100027?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="PBS AMERICA" tvg-logo="" group-title="Channel",PBS AMERICA
+http://mains.services:2086/A.Jones01/1904550/104637?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="5 STAR" tvg-logo="" group-title="Channel",5 STAR
+http://mains.services:2086/A.Jones01/1904550/66938?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="PICK" tvg-logo="" group-title="Channel",PICK
+http://mains.services:2086/A.Jones01/1904550/98693?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="PlutoTVDoctorWhoClassic.us" tvg-name="Pluto TV Doctor Who Classic (720p)" tvg-logo="http://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png" group-title="Channel",Pluto TV Doctor Who Classic (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce4475cd43850831ca91ce7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=532&terminate=false&userId=
