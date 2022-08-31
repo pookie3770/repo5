@@ -1,137 +1,135 @@
 #EXTM3U
-#EXTINF:0,BBC 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="BBC 1" tvg-logo="" group-title="Channel",BBC 1
 http://cineapp.org:8000/Fernando/Fernando/318?checkedby:iptvcat.com
-#EXTINF:0,BBC 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="BBC 1" tvg-logo="" group-title="Channel",BBC 1
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAl-OYC0bIpCR99cytnScnk/ts?checkedby:iptvcat.com
-#EXTINF:0,TURNER CLASSIC MOVIES
-http://mains.services:2086/A.Jones01/1904550/128?checkedby:iptvcat.com
-#EXTINF:0,SKY MOVIES ACTION
-http://cineapp.org:8000/Fernando/Fernando/300?checkedby:iptvcat.com
-#EXTINF:0,Sony Movies
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFhyZV7tCLwQrdER0ql7rSM/ts?checkedby:iptvcat.com
-#EXTINF:0,Sony Movies +1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SO-HUrH9ywdyQcH0QCT3cZc/ts?checkedby:iptvcat.com
-#EXTINF:0,FILM4 +1
-http://mains.services:2086/A.Jones01/1904550/104623?checkedby:iptvcat.com
-#EXTINF:0,GREAT MOVIES
-http://mains.services:2086/A.Jones01/1904550/104642?checkedby:iptvcat.com
-#EXTINF:0,GREAT MOVIES +1
-http://mains.services:2086/A.Jones01/1904550/104643?checkedby:iptvcat.com
-#EXTINF:0,HALLMARK MOVIES
-http://mains.services:2086/A.Jones01/1904550/14947?checkedby:iptvcat.com
-#EXTINF:0,TCM
-http://mains.services:2086/A.Jones01/1904550/32055?checkedby:iptvcat.com
-#EXTINF:0,TURNER CLASSIC MOVIES FHD 1080
-http://mains.services:2086/A.Jones01/1904550/64035?checkedby:iptvcat.com
-#EXTINF:0,FILM4
-http://mains.services:2086/A.Jones01/1904550/66975?checkedby:iptvcat.com
-#EXTINF:0,Hallmark Movies & Mysteries
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25475?checkedby:iptvcat.com
-#EXTINF:0,US | STIRR Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0,FilmRise Free Movies on Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Film4
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/film4.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Movies!
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movies.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0,TCM UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tcm.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Turner Classic Movies US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/turner.classic.movies.usa.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0,STARZ ENCORE WESTERNS
-http://mains.services:2086/A.Jones01/1904550/1601?checkedby:iptvcat.com
-#EXTINF:0,ScreenPix Westerns
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/screenpix.westerns.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0,CTV Western HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN8rfqVT4_Gwf6fmT88oMSE/ts?checkedby:iptvcat.com
-#EXTINF:0,Cinevault Westerns : HD
-https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA ACTION
-http://mains.services:2086/A.Jones01/1904550/87571?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA BLOCKBUSTERS
-http://mains.services:2086/A.Jones01/1904550/87580?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA COMEDY
-http://mains.services:2086/A.Jones01/1904550/87572?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA DRAMA
-http://mains.services:2086/A.Jones01/1904550/87574?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA FAMILY
-http://mains.services:2086/A.Jones01/1904550/87575?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA GREATS
-http://mains.services:2086/A.Jones01/1904550/87576?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA HITS
-http://mains.services:2086/A.Jones01/1904550/87577?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA PREMIERE
-http://mains.services:2086/A.Jones01/1904550/87578?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA SCI-FI
-http://mains.services:2086/A.Jones01/1904550/87579?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA THRILLER
-http://mains.services:2086/A.Jones01/1904550/87581?checkedby:iptvcat.com
-#EXTINF:0,SKY COMEDY
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIGZEcybzdE63RDSnpE3GqI/ts?checkedby:iptvcat.com
-#EXTINF:0,SKY MAX
-http://mains.services:2086/A.Jones01/1904550/101702?checkedby:iptvcat.com
-#EXTINF:0,SKY PREMIERE
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJiLrY0nTVeSiR-jgztA2FY/ts?checkedby:iptvcat.com
-#EXTINF:0,SKY REPLAY
-http://mains.services:2086/A.Jones01/1904550/100023?checkedby:iptvcat.com
-#EXTINF:0,SKY SHOWCASE
-http://mains.services:2086/A.Jones01/1904550/98687?checkedby:iptvcat.com
-#EXTINF:0,SKY WITNESS
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMSge_3WIxBFnmP6_Q-hYYs/ts?checkedby:iptvcat.com
-#EXTINF:0,Sky Replay
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.two.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:0,MORE4
-http://mains.services:2086/A.Jones01/1904550/98696?checkedby:iptvcat.com
-#EXTINF:0,GREAT ACTION
-http://mains.services:2086/A.Jones01/1904550/104638?checkedby:iptvcat.com
-#EXTINF:0,GREAT ACTION +1
-http://mains.services:2086/A.Jones01/1904550/104639?checkedby:iptvcat.com
-#EXTINF:0,HORROR
-http://mains.services:2086/A.Jones01/1904550/72577?checkedby:iptvcat.com
-#EXTINF:0,CARTOONITO
-http://mains.services:2086/A.Jones01/1904550/98706?checkedby:iptvcat.com
-#EXTINF:0,SKY ARTS
-http://mains.services:2086/A.Jones01/1904550/98689?checkedby:iptvcat.com
-#EXTINF:0,SKY ATLANTIC
-http://mains.services:2086/A.Jones01/1904550/91780?checkedby:iptvcat.com
-#EXTINF:0,SKY PRE ORDER 1
-http://cineapp.org:8000/Fernando/Fernando/18393?checkedby:iptvcat.com
-#EXTINF:0,ITV +1
+#EXTINF:-1 tvg-id="" tvg-name="ITV +1" tvg-logo="" group-title="Channel",ITV +1
 http://mains.services:2086/A.Jones01/1904550/66992?checkedby:iptvcat.com
-#EXTINF:0,BBC 4
+#EXTINF:-1 tvg-id="" tvg-name="BBC 4" tvg-logo="" group-title="Channel",BBC 4
 http://mains.services:2086/A.Jones01/1904550/104614?checkedby:iptvcat.com
-#EXTINF:0,E4 +1
+#EXTINF:-1 tvg-id="" tvg-name="E4 +1" tvg-logo="" group-title="Channel",E4 +1
 http://mains.services:2086/A.Jones01/1904550/104622?checkedby:iptvcat.com
-#EXTINF:0,5 ACTION
+#EXTINF:-1 tvg-id="" tvg-name="5 ACTION" tvg-logo="" group-title="Channel",5 ACTION
 http://mains.services:2086/A.Jones01/1904550/104627?checkedby:iptvcat.com
-#EXTINF:0,5 SELECT
+#EXTINF:-1 tvg-id="" tvg-name="5 SELECT" tvg-logo="" group-title="Channel",5 SELECT
 http://mains.services:2086/A.Jones01/1904550/66937?checkedby:iptvcat.com
-#EXTINF:0,Hallmark Movies & Mysteries
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35005?checkedby:iptvcat.com
-#EXTINF:0,BOX HITS
-http://mains.services:2086/A.Jones01/1904550/99202?checkedby:iptvcat.com
-#EXTINF:0,COMEDY CENTRAL +1
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL +1" tvg-logo="" group-title="Channel",COMEDY CENTRAL +1
 http://mains.services:2086/A.Jones01/1904550/104620?checkedby:iptvcat.com
-#EXTINF:0,COMEDYXTRA
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYXTRA" tvg-logo="" group-title="Channel",COMEDYXTRA
 http://mains.services:2086/A.Jones01/1904550/104621?checkedby:iptvcat.com
-#EXTINF:0,GOLD +1
+#EXTINF:-1 tvg-id="" tvg-name="GOLD +1" tvg-logo="" group-title="Channel",GOLD +1
 http://mains.services:2086/A.Jones01/1904550/104625?checkedby:iptvcat.com
-#EXTINF:0,ITV2+1
+#EXTINF:-1 tvg-id="" tvg-name="ITV2+1" tvg-logo="" group-title="Channel",ITV2+1
 http://mains.services:2086/A.Jones01/1904550/104616?checkedby:iptvcat.com
-#EXTINF:0,ITV2
+#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="" group-title="Channel",ITV2
 http://mains.services:2086/A.Jones01/1904550/67003?checkedby:iptvcat.com
-#EXTINF:0,ITVBenw
+#EXTINF:-1 tvg-id="" tvg-name="ITVBenw" tvg-logo="" group-title="Channel",ITVBenw
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itvbe.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:0,MTV
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Channel",MTV
 http://cineapp.org:8000/Fernando/Fernando/16997?checkedby:iptvcat.com
-#EXTINF:0,MTV CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="" group-title="Channel",MTV CLASSIC
 http://mains.services:2086/A.Jones01/1904550/100027?checkedby:iptvcat.com
-#EXTINF:0,PBS AMERICA
+#EXTINF:-1 tvg-id="" tvg-name="PBS AMERICA" tvg-logo="" group-title="Channel",PBS AMERICA
 http://mains.services:2086/A.Jones01/1904550/104637?checkedby:iptvcat.com
-#EXTINF:0,5 STAR
+#EXTINF:-1 tvg-id="" tvg-name="5 STAR" tvg-logo="" group-title="Channel",5 STAR
 http://mains.services:2086/A.Jones01/1904550/66938?checkedby:iptvcat.com
-#EXTINF:0,PICK
+#EXTINF:-1 tvg-id="" tvg-name="PICK" tvg-logo="" group-title="Channel",PICK
 http://mains.services:2086/A.Jones01/1904550/98693?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TURNER CLASSIC MOVIES" tvg-logo="" group-title="movies",TURNER CLASSIC MOVIES
+http://mains.services:2086/A.Jones01/1904550/128?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY MOVIES ACTION" tvg-logo="" group-title="movies",SKY MOVIES ACTION
+http://cineapp.org:8000/Fernando/Fernando/300?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="" group-title="movies",Sony Movies
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFhyZV7tCLwQrdER0ql7rSM/ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies +1" tvg-logo="" group-title="movies",Sony Movies +1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SO-HUrH9ywdyQcH0QCT3cZc/ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FILM4 +1" tvg-logo="" group-title="movies",FILM4 +1
+http://mains.services:2086/A.Jones01/1904550/104623?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="GREAT MOVIES" tvg-logo="" group-title="movies",GREAT MOVIES
+http://mains.services:2086/A.Jones01/1904550/104642?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="GREAT MOVIES +1" tvg-logo="" group-title="movies",GREAT MOVIES +1
+http://mains.services:2086/A.Jones01/1904550/104643?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HALLMARK MOVIES" tvg-logo="" group-title="movies",HALLMARK MOVIES
+http://mains.services:2086/A.Jones01/1904550/14947?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="movies",TCM
+http://mains.services:2086/A.Jones01/1904550/32055?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TURNER CLASSIC MOVIES FHD 1080" tvg-logo="" group-title="movies",TURNER CLASSIC MOVIES FHD 1080
+http://mains.services:2086/A.Jones01/1904550/64035?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FILM4" tvg-logo="" group-title="movies",FILM4
+http://mains.services:2086/A.Jones01/1904550/66975?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & Mysteries" tvg-logo="" group-title="movies",Hallmark Movies & Mysteries
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25475?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="US | STIRR Movies" tvg-logo="" group-title="movies",US | STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FilmRise Free Movies on Redbox" tvg-logo="" group-title="movies",FilmRise Free Movies on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Film4" tvg-logo="" group-title="movies",Film4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/film4.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Movies!" tvg-logo="" group-title="movies",Movies!
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movies.us.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TCM UK" tvg-logo="" group-title="movies",TCM UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tcm.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Turner Classic Movies US" tvg-logo="" group-title="movies",Turner Classic Movies US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/turner.classic.movies.usa.us.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="" group-title="movies",STARZ ENCORE WESTERNS
+http://mains.services:2086/A.Jones01/1904550/1601?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="ScreenPix Westerns" tvg-logo="" group-title="movies",ScreenPix Westerns
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/screenpix.westerns.us.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="CTV Western HD" tvg-logo="" group-title="movies",CTV Western HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN8rfqVT4_Gwf6fmT88oMSE/ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Cinevault Westerns : HD" tvg-logo="" group-title="movies",Cinevault Westerns : HD
+https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION" tvg-logo="" group-title="movies",SKY CINEMA ACTION
+http://mains.services:2086/A.Jones01/1904550/87571?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA BLOCKBUSTERS" tvg-logo="" group-title="movies",SKY CINEMA BLOCKBUSTERS
+http://mains.services:2086/A.Jones01/1904550/87580?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COMEDY" tvg-logo="" group-title="movies",SKY CINEMA COMEDY
+http://mains.services:2086/A.Jones01/1904550/87572?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DRAMA" tvg-logo="" group-title="movies",SKY CINEMA DRAMA
+http://mains.services:2086/A.Jones01/1904550/87574?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY" tvg-logo="" group-title="movies",SKY CINEMA FAMILY
+http://mains.services:2086/A.Jones01/1904550/87575?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA GREATS" tvg-logo="" group-title="movies",SKY CINEMA GREATS
+http://mains.services:2086/A.Jones01/1904550/87576?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA HITS" tvg-logo="" group-title="movies",SKY CINEMA HITS
+http://mains.services:2086/A.Jones01/1904550/87577?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIERE" tvg-logo="" group-title="movies",SKY CINEMA PREMIERE
+http://mains.services:2086/A.Jones01/1904550/87578?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SCI-FI" tvg-logo="" group-title="movies",SKY CINEMA SCI-FI
+http://mains.services:2086/A.Jones01/1904550/87579?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA THRILLER" tvg-logo="" group-title="movies",SKY CINEMA THRILLER
+http://mains.services:2086/A.Jones01/1904550/87581?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY COMEDY" tvg-logo="" group-title="movies",SKY COMEDY
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIGZEcybzdE63RDSnpE3GqI/ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY MAX" tvg-logo="" group-title="movies",SKY MAX
+http://mains.services:2086/A.Jones01/1904550/101702?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY PREMIERE" tvg-logo="" group-title="movies",SKY PREMIERE
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJiLrY0nTVeSiR-jgztA2FY/ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY REPLAY" tvg-logo="" group-title="movies",SKY REPLAY
+http://mains.services:2086/A.Jones01/1904550/100023?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY SHOWCASE" tvg-logo="" group-title="movies",SKY SHOWCASE
+http://mains.services:2086/A.Jones01/1904550/98687?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY WITNESS" tvg-logo="" group-title="movies",SKY WITNESS
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMSge_3WIxBFnmP6_Q-hYYs/ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Sky Replay" tvg-logo="" group-title="movies",Sky Replay
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.two.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="MORE4" tvg-logo="" group-title="movies",MORE4
+http://mains.services:2086/A.Jones01/1904550/98696?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="GREAT ACTION" tvg-logo="" group-title="movies",GREAT ACTION
+http://mains.services:2086/A.Jones01/1904550/104638?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="GREAT ACTION +1" tvg-logo="" group-title="movies",GREAT ACTION +1
+http://mains.services:2086/A.Jones01/1904550/104639?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HORROR" tvg-logo="" group-title="movies",HORROR
+http://mains.services:2086/A.Jones01/1904550/72577?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="" group-title="movies",CARTOONITO
+http://mains.services:2086/A.Jones01/1904550/98706?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY ARTS" tvg-logo="" group-title="movies",SKY ARTS
+http://mains.services:2086/A.Jones01/1904550/98689?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC" tvg-logo="" group-title="movies",SKY ATLANTIC
+http://mains.services:2086/A.Jones01/1904550/91780?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRE ORDER 1" tvg-logo="" group-title="movies",SKY PRE ORDER 1
+http://cineapp.org:8000/Fernando/Fernando/18393?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & Mysteries" tvg-logo="" group-title="movies",Hallmark Movies & Mysteries
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35005?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="BOX HITS" tvg-logo="" group-title="movies",BOX HITS
+http://mains.services:2086/A.Jones01/1904550/99202?checkedby:iptvcat.com
